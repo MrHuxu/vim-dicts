@@ -173,6 +173,13 @@ word-break
 word-spacing
 word-wrap
 z-index
+-moz-border-radius
+-moz-border-image
+-moz-border-radius-bottomleft
+-moz-border-radius-bottomright
+-moz-border-radius-topleft
+-moz-border-radius-topright
+-moz-box-shadow
 -webkit-animation
 -webkit-animation-delay
 -webkit-animation-direction
@@ -350,10 +357,3 @@ important
 import
 media
 charset
--moz-border-radius
--moz-border-image
--moz-border-radius-bottomleft
--moz-border-radius-bottomright
--moz-border-radius-topleft
--moz-border-radius-topright
--moz-box-shadow

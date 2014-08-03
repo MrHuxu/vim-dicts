@@ -9,6 +9,7 @@ Add these sentences into your ```.vimrc``` file to use these files:
 
 	autocmd FileType javascript set dictionary=~/.vim/bundle/vim-dicts/javascript.dict
 	autocmd FileType ruby set dictionary=~/.vim/bundle/vim-dicts/ruby.dict  
-	
+  autocmd FileType css set dictionary=~/.vim/bundle/vim-dicts/css.dict  
+
 After finishing these steps, you can have auto completion for methods or functions when editing ruby and js files!  
 
